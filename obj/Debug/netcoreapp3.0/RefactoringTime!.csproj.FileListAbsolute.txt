@@ -1,0 +1,11 @@
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.exe
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.deps.json
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.runtimeconfig.json
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.runtimeconfig.dev.json
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.dll
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\bin\Debug\netcoreapp3.0\RefactoringTime!.pdb
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\obj\Debug\netcoreapp3.0\RefactoringTime!.csprojAssemblyReference.cache
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\obj\Debug\netcoreapp3.0\RefactoringTime!.AssemblyInfoInputs.cache
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\obj\Debug\netcoreapp3.0\RefactoringTime!.AssemblyInfo.cs
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\obj\Debug\netcoreapp3.0\RefactoringTime!.dll
+C:\Users\jbenk\Desktop\bootcamp2019\RefactoringTime!\obj\Debug\netcoreapp3.0\RefactoringTime!.pdb
